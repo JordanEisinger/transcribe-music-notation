@@ -1,2 +1,6 @@
-# transcribe-music-notation
-Transcribe audio data into music staff notation
+# Transcribe Music Notation
+
+* *Objective*:
+  * Take audio data and transcribe to music staff notation
+
+## Resources
